@@ -1,0 +1,110 @@
+body {
+    font-family: Arial, Verdana;
+    background-color: #000000;
+    color: #FFFFFF;
+    margin: 20px 20px 0 20px;
+}
+
+/* h1 styling */
+h1 {
+    font-size: 42px;
+    text-align: center;
+    padding: 15px;
+}
+
+/* h2 styling */
+h2 {
+    font-size: 30px;
+    color: #0D0D0D;
+}
+
+/* Default paragraph styling */
+p {
+    font-size: 24px;
+    padding: 10px 0 0 10px;
+}
+
+/* Default image styling */
+img {
+    width: 250px;
+    display: block;
+    margin: 0 auto;
+    border: 10px dashed #FFFFFF;
+}
+
+/* Default div styling */
+div {
+    min-height: 125px;
+    padding: 20px;
+    border: 3px solid #FFFFFF;
+}
+
+/* Introduction class styling */
+.introduction {
+    border-radius: 15px;
+    margin-top: 15px;
+    line-height: 2;
+}
+
+/* Red div styling */
+.red {
+    background-color: #FF0000;
+    text-align: right;
+    margin-left: 50px;
+    border-bottom: 2px solid #FFFFFF;
+    border-left: 5px solid #FFFFFF;
+    border-top: 0px;
+    border-right: 0px;
+}
+
+/* Blue div styling */
+.blue {
+    background-color: #0000FF;
+    text-align: left;
+    margin-right: 50px;
+    border-right: 5px solid #FFFFFF;
+    border-top: 2px solid #FFFFFF;
+    border-left: 0px;
+    border-bottom: 0px;
+    color: #c4c4c4;
+}
+
+.blue h2 {
+    color: #c4c4c4;
+}
+
+/* Yellow div styling */
+.yellow {
+    background-color: #FFFF00;
+    text-align: right;
+    margin-left: 50px;
+    border-bottom: 2px solid #FFFFFF;
+    border-left: 5px solid #FFFFFF;
+    border-top: 0px;
+    border-right: 0px;
+    color: #707070;
+}
+
+/* Green div styling */
+.green {
+    background-color: #008500;
+    text-align: left;
+    margin-right: 50px;
+    border-right: 5px solid #FFFFFF;
+    border-top: 2px solid #FFFFFF;
+    border-left: 0px;
+    border-bottom: 0px;
+}
+
+/* Footer styling */
+footer {
+    background: linear-gradient(to right, #000000, #0000FF 25%, #0066FF 70%, #000000);
+    border: 5px solid #FFFFFF;
+}
+
+/* Footer paragraph styling */
+footer p {
+    font-size: 20px;
+    text-align: right;
+    padding: 15px 15px 15px 0;
+}
